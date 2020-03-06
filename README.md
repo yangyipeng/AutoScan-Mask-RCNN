@@ -10,6 +10,12 @@ It should be emphasized that the realization of this project cannot be achieved 
 
 ## Technical approach
 
-项目整体基
+1.构建数据集，fine-tune Mask-RCNN
+
+2.配准深度相机和彩色相机
+
+3.Mask-RCNN 对单帧数据进行处理，分割出物体
+
+4.生成点云
 
 
