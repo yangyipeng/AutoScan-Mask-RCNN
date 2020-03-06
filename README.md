@@ -9,7 +9,7 @@ This is part of the automatic scanning system project, which uses Mask-RCNN to i
 It should be emphasized that the realization of this project cannot be achieved without the help of [Mask-RCNN Project](https://github.com/matterport/Mask_RCNN), [Mask R-CNN for Surgery Robot](https://github.com/SUYEgit/Surgery-Robot-Detection-Segmentation)and [blog](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46).
 
 ## Technical approach
-
+![image](https://github.com/yangyipeng/AutoScan-Mask-RCNN/blob/master/system.png)
 1.构建数据集，fine-tune Mask-RCNN
 
 2.配准深度相机和彩色相机
