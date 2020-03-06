@@ -10,6 +10,7 @@ It should be emphasized that the realization of this project cannot be achieved 
 
 ## Technical approach
 ![image](https://github.com/yangyipeng/AutoScan-Mask-RCNN/blob/master/system.png)
+
 1.构建数据集，fine-tune Mask-RCNN
 
 2.配准深度相机和彩色相机
